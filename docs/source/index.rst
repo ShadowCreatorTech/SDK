@@ -9,6 +9,6 @@ ShadowCreator SDK
 .. toctree::
    :maxdepth: 1
    
-   HaloMiniKit_API
-   ShadowKit_API
    Unity
+   Android
+   
